@@ -15,11 +15,11 @@ F:/GameTrain/UnityProjects/UnityChallenge 2 - Play Fetch/Unity Challenge 2 - Pla
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-62763
+50233
 Successfully changed project path to: F:/GameTrain/UnityProjects/UnityChallenge 2 - Play Fetch/Unity Challenge 2 - Play Fetch
 F:/GameTrain/UnityProjects/UnityChallenge 2 - Play Fetch/Unity Challenge 2 - Play Fetch
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 309.10 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 659.73 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
 [Subsystems] Discovering subsystems at path E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/Resources/UnitySubsystems
@@ -35,5 +35,5 @@ Initialize mono
 Mono path[0] = 'E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/Managed'
 Mono path[1] = 'E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56336
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56976
 Begin MonoManager ReloadAssembly

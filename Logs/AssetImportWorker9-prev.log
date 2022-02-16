@@ -9,17 +9,17 @@ E:\Unity 2020\2020.3.22f1\2020.3.22f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker12
+AssetImportWorker9
 -projectPath
 F:/GameTrain/UnityProjects/UnityChallenge 2 - Play Fetch/Unity Challenge 2 - Play Fetch
 -logFile
-Logs/AssetImportWorker12.log
+Logs/AssetImportWorker9.log
 -srvPort
-50233
+62763
 Successfully changed project path to: F:/GameTrain/UnityProjects/UnityChallenge 2 - Play Fetch/Unity Challenge 2 - Play Fetch
 F:/GameTrain/UnityProjects/UnityChallenge 2 - Play Fetch/Unity Challenge 2 - Play Fetch
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 137.81 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 556.11 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
 [Subsystems] Discovering subsystems at path E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/Resources/UnitySubsystems
@@ -31,17 +31,3 @@ Direct3D:
     Vendor:   
     VRAM:     128 MB
     Driver:   10.18.10.5161
-Initialize mono
-Mono path[0] = 'E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/Managed'
-Mono path[1] = 'E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56408
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: E:/Unity 2020/2020.3.22f1/2020.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.044250 seconds.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 443.33 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
